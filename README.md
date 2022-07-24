@@ -8,6 +8,8 @@ README dosyası, bir adet de index.html barındırıyor.
 Öncelikle porjeyi clonelayın.
 > git clone https://github.com/semih-ugur/kodluyoruzilkrepo.git
 
+![](figures/github.png)
+
 ## Usage
 
 Projeyi clonladıktan sonra Visual Studio Code programında açınız.
@@ -24,6 +26,6 @@ istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
-[MIT](figures/github.png)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ![]()
